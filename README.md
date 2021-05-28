@@ -4,5 +4,7 @@ Flutter recently announced Flutter V2.0, after that on stable branch it supports
 
 ### Responsive Blog Theme using Flutter Final UI
 
-get: [link](https://pub.dev/packages/get)
+get: [link](https://responsiveblog.netlify.app/#/)
+
+
 ![App UI](/ui.png)
